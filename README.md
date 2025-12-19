@@ -7,14 +7,14 @@
 
 ## 🛠️ Технологический стек
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white)
 
 ## 📈 Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CherepanovAnton)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CherepanovAnton)
 
 ## 📫 Как связаться
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/username)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/@Skuka_i_i)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/username)
+
