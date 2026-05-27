@@ -11,8 +11,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white)
 
-## 📈 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CherepanovAnton)
 
 
 ## 📫 Как связаться
