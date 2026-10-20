@@ -7,7 +7,7 @@
 
 ## 🛠️ Навигация
 - [Курс программирования на С](https://github.com/CherepanovAnton/Programming-C)
-- [Проект по Unit-тестированию на C](https://github.com)
+- [Проект по Unit-тестированию на C](https://github.com/CherepanovAnton/Programming-C/tree/c94486c88b8fa3d86c924d7822e142fabec08c50/lab18_tests)
 - [Курсовой проект по САОД](https://github.com/CherepanovAnton/Course-project-on-SAOD)
 
 
